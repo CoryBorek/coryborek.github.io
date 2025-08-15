@@ -1,0 +1,79 @@
+{
+    "header": "Cory M. Borek",
+    "title": "Hey! I'm Cory Borek",
+    "desc": "I'm a Junior at the University of Georgia, and a software engineer! I do this because I find it fun and enjoying, so I have done a tone of projects over time. This site acts as a gateway to find some!",
+    "image": "profile.jpg",
+    "background": "background.png",
+    "links": [
+        {
+            "img": "/assets/img/linkedin.svg",
+            "href": "https://www.linkedin.com/in/cory-borek/",
+            "alt": "LinkedIn"
+        },
+        {
+            "img": "/assets/img/github.svg",
+            "href": "https://github.com/CoryBorek/",
+            "alt": "Personal Github"
+        },
+        {
+            "img": "/assets/img/github.svg",
+            "href": "https://github.com/agentdid127",
+            "alt": "agentdid127 Github"
+        },
+        {
+            "img": "/assets/img/monitor.svg",
+            "href": "https://agentdid127.com/",
+            "alt": "Source Website"
+        }
+    ],
+    "markdown": {
+        "enable": "true",
+        "raw_base": "https://raw.githubusercontent.com/",
+        "git_base": "https://github.com/",
+        "branch": "main",
+        "repo": "CoryBorek/notes-md"
+    },
+    "projects": [
+        {
+            "name": "ResourcePackConverter",
+            "desc": "This is a tool that automatically converts any Minecraft Resource Pack to function between different versions of the game.",
+            "tags": [
+                {"text": "Open Source", "color": "#00FF00"}
+            ],
+            "links": [
+                {
+                    "img": "Github",
+                    "href": "https://github.com/agentdid127/ResourcePackConverter",
+                    "alt": "Source Code"
+                }
+            ]
+
+
+        },
+        {
+            "name": "Low To High Level",
+            "desc": "Low To High Level is a series of YouTube videos that I work on from time to time in where I design a custom CPU Architecture and slowly work the software stack up to a form where it can run modern software.",
+            "tags": [
+                {"text": "Open Source", "color": "#00FF00"},
+                {"text": "YouTube", "color": "#FF0000"}
+            ],
+            "links": [
+                {
+                    "img": "Github",
+                    "href": "https://github.com/LowToHighLevel",
+                    "alt": "Github Page"
+                },
+                {
+                    "img": "Github",
+                    "href": "https://youtube.com/@LowToHighLevel",
+                    "alt": "YouTube"
+                },
+                {
+                    "img": "Github",
+                    "href": "https://LowToHighLevel.github.io",
+                    "alt": "Website"
+                }
+            ]
+        }
+    ]
+}
