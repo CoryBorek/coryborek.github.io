@@ -1,0 +1,129 @@
+{
+    "debug": "false",
+    "header": "Cory M. Borek",
+    "desc": "I'm a Junior at the University of Georgia, and a software engineer! I do this because I find it fun and enjoying, so I have done a tone of projects over time. This site acts as a gateway to find some!",
+    "image": "profile.jpg",
+    "background": "background.png",
+    "links": [
+        {
+            "img": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/cory-borek/",
+            "alt": "LinkedIn"
+        },
+        {
+            "img": "fa-brands fa-github",
+            "href": "https://github.com/CoryBorek/",
+            "alt": "Personal Github"
+        },
+        {
+            "img": "fa-brands fa-github",
+            "href": "https://github.com/agentdid127",
+            "alt": "agentdid127 Github"
+        },
+        {
+            "img": "fas fa-desktop",
+            "href": "https://agentdid127.com/",
+            "alt": "agentdid127 Website"
+        },
+        {
+            "img": "fa-brands fa-youtube",
+            "href": "https://youtube.com/@agentdid127",
+            "alt": "agentdid127 YouTube"
+        },
+        {
+            "img": "fa-brands fa-youtube",
+            "href": "https://youtube.com/@CoryBorek",
+            "alt": "CoryBorek YouTube"
+        },
+        {
+            "img": "fa-brands fa-youtube",
+            "href": "https://youtube.com/@LowToHighLevel",
+            "alt": "LowToHighLevel YouTube"
+        }
+    ],
+    "markdown": {
+        "enable": "true",
+        "raw_base": "https://raw.githubusercontent.com/",
+        "git_base": "https://github.com/",
+        "branch": "main",
+        "repo": "CoryBorek/notes-md"
+    },
+    "projects": [
+        {
+            "name": "Resource Pack Converter",
+            "desc": "This is a tool that automatically converts any Minecraft Resource Pack to function between different versions of the game.",
+            "tags": [
+                {"text": "Open Source", "color": "green"}
+            ],
+            "links": [
+                {
+                    "img": "Github",
+                    "href": "https://github.com/agentdid127/ResourcePackConverter",
+                    "alt": "Source Code"
+                }
+            ]
+
+
+        },
+                {
+            "name": "RPC-Bedrock",
+            "desc": "Similar to the Resource Pack Converter, this tool converts Java Edition Packs to work with Bedrock Edition.",
+            "tags": [
+                {"text": "Open Source", "color": "green"}
+            ],
+            "links": [
+                {
+                    "img": "Github",
+                    "href": "https://github.com/agentdid127/RPC-Bedrock",
+                    "alt": "Source Code"
+                }
+            ]
+
+
+        },
+        {
+            "name": "Low To High Level",
+            "desc": "Low To High Level is a series of YouTube videos that I work on from time to time in where I design a custom CPU Architecture and slowly work the software stack up to a form where it can run modern software.",
+            "tags": [
+                {"text": "Open Source", "color": "green"},
+                {"text": "YouTube", "color": "red"}
+            ],
+            "links": [
+                {
+                    "img": "Github",
+                    "href": "https://github.com/LowToHighLevel",
+                    "alt": "Github Page"
+                },
+                {
+                    "img": "Github",
+                    "href": "https://youtube.com/@LowToHighLevel",
+                    "alt": "YouTube"
+                },
+                {
+                    "img": "Github",
+                    "href": "https://LowToHighLevel.github.io",
+                    "alt": "Website"
+                }
+            ]
+        },
+        {
+            "name": "Markdown Site",
+            "desc": "A Quick and dirty React native site that generates a site from source in markdown. Helps make quick website generation for notes, or documentation.",
+            "tags": [
+                {"text": "Open Source", "color": "green"}
+            ],
+            "links": [
+                {
+                    "img": "Github",
+                    "href": "https://github.com/CoryBorek/markdown-site",
+                    "alt": "Github Page"
+                },
+                {
+                    "img": "Monitor",
+                    "href": "https://github.com/CoryBorek/notes-md",
+                    "alt": "MD Source"
+                }
+            ]
+        }
+    ]
+}
