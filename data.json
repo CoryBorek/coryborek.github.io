@@ -39,6 +39,11 @@
             "img": "fa-brands fa-youtube",
             "href": "https://youtube.com/@LowToHighLevel",
             "alt": "LowToHighLevel YouTube"
+        },
+        {
+            "img": "fa-brands fa-discord",
+            "href": "https://discord.gg/JePmTWrNQy",
+            "alt": "My Discord Server"
         }
     ],
     "markdown": {
@@ -122,6 +127,25 @@
                     "img": "Monitor",
                     "href": "https://github.com/CoryBorek/notes-md",
                     "alt": "MD Source"
+                }
+            ]
+        },
+         {
+            "name": "Early",
+            "desc": "A Productivity App that I have been working on for the last few years.",
+            "tags": [
+                {"text": "Startup", "color": "yellow"}
+            ],
+            "links": [
+                {
+                    "img": "Open Source Libraries",
+                    "href": "https://github.com/Early-App",
+                    "alt": "Github Page"
+                },
+                {
+                    "img": "Monitor",
+                    "href": "https://erliapp.com/",
+                    "alt": "Website"
                 }
             ]
         }
